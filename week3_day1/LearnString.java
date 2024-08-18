@@ -1,6 +1,5 @@
 package week3_day1;
 
-import java.util.Iterator;
 
 public class LearnString {
 

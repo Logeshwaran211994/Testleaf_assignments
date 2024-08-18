@@ -3,7 +3,7 @@ package week1_day2;
 public class Operatorshandson {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		//Arithmetic operator
 System.out.println(8+5);//13
 System.out.println(8-5);//3
